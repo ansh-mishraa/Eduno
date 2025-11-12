@@ -97,10 +97,10 @@ export default function ContactPage() {
   <Mail className="w-5 h-5 text-blue-500" />
   {/* <span className="font-semibold">Email:</span> */}
   <a 
-    href="mailto:anshmishraa.8708@gmail.com" 
+    href="mailto:khushi178shrivastava@gmail.com" 
     className="text-muted-foreground underline hover:text-blue-500"
   >
-    anshmishraa.8708@gmail.com
+    khushi178shrivastava@gmail.com
   </a>
 </p>
 
