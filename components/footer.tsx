@@ -71,8 +71,7 @@ export default function Footer() {
             <h3 className="text-sm md:text-base font-semibold mb-2 md:mb-3 dark:text-white">Contact</h3>
             <ul className="space-y-1 md:space-y-2">
               <li className="text-xs md:text-sm dark:text-gray-300 break-words">
-                Email: anshmishraa.8708@gmail.com
-                        khushi178shrivastava@gmail.com
+                Email:  khushi178shrivastava@gmail.com
               </li>
               <li className="text-xs md:text-sm dark:text-gray-300">
                 Whatsapp Community : 

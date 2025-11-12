@@ -96,12 +96,12 @@ export default function ContactPage() {
               <p className="flex items-center gap-2">
   <Mail className="w-5 h-5 text-blue-500" />
   {/* <span className="font-semibold">Email:</span> */}
-  <a 
+  {/*<a 
     href="mailto:anshmishraa.8708@gmail.com" 
     className="text-muted-foreground underline hover:text-blue-500"
   >
     anshmishraa.8708@gmail.com
-  </a>
+  </a>*/}
 </p>
 
                 {/* <p className="flex items-center gap-2">
