@@ -3142,7 +3142,7 @@ export const subjectResources: Record<string, SubjectResources> = {
           {
             id: "m3-notes-rgpv-0",
             title: "Cheat Sheet",
-            contributor: "Ansh Mishra",
+            contributor: "Khushi Shrivastava",
             subjectCode: "BT 401",
             subjectName: "Mathematics III",
             department: "Information Technology",
