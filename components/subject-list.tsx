@@ -102,6 +102,16 @@ const getSubjects = (branch: string, semester: number) => {
       },
     ];
   }
+  else if(semester === 5){
+    return [
+      {
+        id: "os",
+        name: "Operating System",
+        code: "IT-501",
+        image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=500&h=300&fit=crop",
+      },
+    ];
+  }
   return [];
 };
 

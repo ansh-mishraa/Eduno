@@ -14,12 +14,6 @@ import {
 export default function Home() {
   const contributors = [
     {
-      name: "Aditya Giri",
-      department: "Information Technology",
-      year: "2022-2026",
-      role: "Notes Provider"
-    },
-    {
       name: "Nandani Dubey",
       department: "Information Technology",
       year: "2023-2027",

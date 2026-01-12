@@ -13,7 +13,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { useRouter, useSearchParams } from "next/navigation";
 
 const branches = ["Information Technology", ];
-const semesters = [1,2, 3, 4];
+const semesters = [1, 2, 3, 4, 5];
 
 export default function BranchSemesterSelector() {
   const router = useRouter();
